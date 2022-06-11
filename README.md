@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KachiKaduru
-- 👀 I’m interested in Coding and Software Engineering in general.
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m interested in Web Development and Software Engineering.
+- 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on anything with anyone.
 - 📫 How to reach me; kachikaduru@gmail.com
 
