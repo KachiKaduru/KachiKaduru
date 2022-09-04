@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kachi Kaduru
 - 👀 I’m interested in Web Development and Software Engineering.
-- 🌱 I’m currently learning FrontEnd Web Development.
+- 🌱 I’m a FrontEnd Web Developer.
 - 💞️ I’m looking to collaborate on anything with anyone.
 - 📫 How to reach me; kachikaduru@gmail.com
 
